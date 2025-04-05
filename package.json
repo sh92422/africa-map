@@ -1,0 +1,12 @@
+{
+    "name": "africa-map-app",
+    "version": "1.0.0",
+    "description": "A Node.js app that displays a static map of Africa with tooltips using D3.js",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
